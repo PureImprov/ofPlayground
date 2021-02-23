@@ -1,0 +1,2 @@
+# ofPlayground
+Open Frameworks playground
