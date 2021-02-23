@@ -1,2 +1,2 @@
-# ofPlayground
-Open Frameworks playground
+# ImageFX
+Rly kool effects
